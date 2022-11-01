@@ -1,0 +1,29 @@
+
+form{
+    margin: 20% auto;
+    display: grid;
+    place-items: center;
+    
+}
+input{
+    display: block;
+    padding: 8px 16px;
+    outline: none;
+margin: 8px 0px;
+}
+.main{
+    margin: 9% 35%;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 20%;
+}
+body{
+    background-color: rgb(100, 100, 160);
+}
+.btn{
+    color: white;
+    background-color: rgb(100, 100, 160);
+    padding: 6px 12px;
+    border: none;
+    font-size: 18px;
+}
